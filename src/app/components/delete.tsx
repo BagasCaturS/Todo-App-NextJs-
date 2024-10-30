@@ -1,15 +1,15 @@
-import React, {useState} from "react";
-import ToDo from "./todoinput";
+// import React, {useState} from "react";
+// import ToDo from "./todoinput";
 
-const DeleteButton = () => {
-    const removeItem = (index) => {
-        setTodo
-    }
-    return (
-        <>
+// const DeleteButton = () => {
+//     const removeItem = (index) => {
+//         setTodo
+//     }
+//     return (
+//         <>
 
-        </>
-    )
-}
+//         </>
+//     )
+// }
 
-export default DeleteButton;
+// export default DeleteButton;
